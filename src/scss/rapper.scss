@@ -1,0 +1,139 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 0;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+html {
+  height: 100%;
+}
+body {
+  background-color: #151515;
+  color: #fff;
+  font-size: 15px;
+  font-family: "Poppins", sans-serif;
+  height: 100%;
+  overflow-x: hidden;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: white;
+  font-weight: 600;
+  font-family: "Open Sans", sans-serif;
+  margin: 0;
+}
+p {
+  line-height: 1.6;
+  font-weight: 400;
+  margin: 0;
+}
+h1 {
+  font-size: 40px;
+}
+h2 {
+  font-size: 35px;
+}
+h3 {
+  font-size: 30px;
+}
+h4 {
+  font-size: 26px;
+}
+h5 {
+  font-size: 15px;
+}
+h6 {
+  font-size: 13px;
+}
+h4 {
+  font-weight: 400;
+}
+h6 {
+  font-weight: bold;
+}
+
+.navbar-brand {
+  padding-left: 40px;
+  text-transform: uppercase;
+  color: rgb(253, 249, 249) !important;
+}
+
+.navbar-nav li {
+  padding: 0 15px;
+}
+
+.navbar-nav li a {
+  float: right;
+  text-align: left;
+}
+
+.navbar {
+  background: #151515 !important;
+}
+
+.nav-link {
+  color: rgb(255, 255, 255) !important;
+  font-weight: bolder;
+  font-size: 16px;
+  text-transform: uppercase;
+}
+
+.keypad-section {
+  margin-bottom: 40px;
+}
+
+.button-case {
+  margin-top: 20px;
+}
+
+.pad {
+  margin: 20px;
+}
+
+.modal-body {
+  color: #151515;
+}
+
+@media screen and (max-width: 1200px) {
+}
+
+@media screen and (max-width: 600px) {
+  .c-4 {
+    position: relative;
+    left: 125px;
+    bottom: 290px;
+  }
+
+  .c-5 {
+    position: relative;
+    left: 125px;
+    bottom: 335px;
+  }
+
+  .gif-fit {
+    width: 80px !important;
+    height: auto !important;
+  }
+
+  .title {
+    margin-left: 20px;
+    position: relative;
+    right: 30px;
+  }
+}
