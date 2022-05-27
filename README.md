@@ -29,7 +29,7 @@ get a layout quickly. I focused most of my attention to Javascript and programmi
 make the site faster and take less time loading. I used gulp to automate the process of minifying the javascript, css, and images. This allows for faster page speed.
 
 ## Optimizations
-*(optional)*
+
 
 * I would have added a database or local storage to keep track of highest score for a player. I attempted to do so but it didn't work as I planned.
 * I also would make the reset button more functional. I just used a window.reload dom object to achieve a refresh. Their is definetly a better way to to this.
