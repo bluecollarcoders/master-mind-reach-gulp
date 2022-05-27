@@ -22,7 +22,7 @@ feel a little overwhelmed just hit the reset button. If you need detailed instru
 **Tech used:** HTML, CSS, JavaScript, along with Bootstrap,Gulp and Axios.
 
 My process in building the game was first to use a wireframe for the layout. I didn't stick to close to the layout. I just used it as a guide line. I then used bootstrap to 
-get a layout quickly. I focused most of my attention to Javascript and programming the game. I took in consideration the role I'm interviewing which is an SRE. I used gulp to 
+get a layout quickly. I focused most of my attention to Javascript and programming the game. I took in consideration the role I'm interviewing for which is an SRE. I used gulp to 
 make the site faster and take less time loading. I used gulp to automate the process of minifying the javascript, css, and images. This allows for faster page speed.
 
 ## Optimizations
