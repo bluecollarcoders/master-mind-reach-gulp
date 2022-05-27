@@ -48,5 +48,6 @@ Take a look at these couple examples that I have in my own portfolio:
 
 **Weather Me** https://github.com/bluecollarcoders/weather-me
 
-**Roney LLC:** https://github.com/bluecollarcoders/roney-llc-website  https://roneyllc.netlify.app/
+**Roney LLC:** https://github.com/bluecollarcoders/roney-llc-website 
+               * https://roneyllc.netlify.app/
 
