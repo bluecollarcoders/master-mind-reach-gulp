@@ -14,7 +14,9 @@ feel a little overwhelmed just hit the reset button. If you need detailed instru
 
 ## Download Game
 * To download on your computer paste
+```
 * $ git clone https://github.com/bluecollarcoders/master-mind-reach-gulp.git
+```
 * Once open go to index.html to begin accessing game through the landing page.
 
 ## How It's Made:
@@ -23,6 +25,7 @@ feel a little overwhelmed just hit the reset button. If you need detailed instru
 * HTML, CSS, 
 * JavaScript
 *  Bootstrap,Gulp and Axios.
+*  random numbers api https://www.random.org/clients/http/api/
 
 My process in building the game was first to use a wireframe for the layout. I didn't stick to close to the layout. I just used it as a guide line. I then used bootstrap to 
 get a layout quickly. I focused most of my attention to Javascript and programming the game. I took in consideration the role I'm interviewing for which is an SRE. I used gulp to 
@@ -36,6 +39,7 @@ make the site faster and take less time loading. I used gulp to automate the pro
 * The rapper guessing game has a bug. It doesn't give a proper location hint. It just rules out all positions in the array. 
 * I would also create an api for the rapper game unstead of using a function to get the random rapper array.
 * Also their is a scripting problem I'm having with gulp. I have to write a better build script.
+* I would would have tighten up the responsiveness. The modals that alert that player are not as responsive.
 
 ## Lessons Learned:
 I learned more about dom manipulation and general programming. I also learned how to add a timer to the game along with a players score. I felt real proud about that. 
