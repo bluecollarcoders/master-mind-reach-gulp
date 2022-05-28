@@ -1,5 +1,5 @@
 # Master Mind Game Project 
-Master Mind Game takes from the popular color matching game but with a twist. A player is given a random number generated from a random number api. A player then has to guess four numbers under 10 seconds. 
+Master Mind Game takes from the popular color matching game but with a twist. A player is given a random number generated from a random number api. A player then has to guess four numbers under 30 seconds. 
 A player gets 10 attempts.
 
 **Link to project:** https://master-mind-reach-game.netlify.app/
@@ -9,7 +9,7 @@ A player gets 10 attempts.
 
 ## How to play
 ** Player hits the start the game button. Player is taken to the master mind number game dashboard. Player hits the start button to begin playing. The timer for the game is 
-activated. The player then has 10 seconds to get the right number combination. A player receives a score of one if they win and 0 if they lose. If you need more time or
+activated. The player then has 30 seconds to get the right number combination. A player receives a score of one if they win and 0 if they lose. If you need more time or
 feel a little overwhelmed just hit the reset button. If you need detailed instruction hit the about tab in the navbar.
 
 ## Download Game
