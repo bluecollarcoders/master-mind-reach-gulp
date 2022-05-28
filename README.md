@@ -12,6 +12,8 @@ A player gets 10 attempts.
 activated. The player then has 30 seconds to get the right number combination. A player receives a score of one if they win and 0 if they lose. If you need more time or
 feel a little overwhelmed just hit the reset button. If you need detailed instruction hit the about tab in the navbar.
 
+![mastermind](https://user-images.githubusercontent.com/67053237/170820092-f64197c7-3871-45c5-a2e5-89f02d9cf9d5.gif)
+
 ## Download Game
 * To download on your computer paste
 ```
